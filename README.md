@@ -4,7 +4,7 @@ All you need to know to use Diffix anonymization for the Moers Hackday
 
 ## Data set
 
-The data set for the Moers Hackday consists of several years of traffic violations, both moving and stationary. The basic information for the data set is taken from [Moers Open Data](https://www.offenesdatenportal.de/organization/moers) (see [this page](https://www.offenesdatenportal.de/organization/20a7743d-057b-4e0e-a341-cf0adaf1502a?groups=transport-verkehr&tags=Bu%C3%9Fgelder).
+The data set for the Moers Hackday consists of several years of traffic violations, both moving and stationary. The basic information for the data set is taken from [Moers Open Data](https://www.offenesdatenportal.de/organization/moers) (see [this page](https://www.offenesdatenportal.de/organization/20a7743d-057b-4e0e-a341-cf0adaf1502a?groups=transport-verkehr&tags=Bu%C3%9Fgelder)).
 
 Moers removed all personal information from the data set. This makes the dataset private, but results in the loss of some potentially information about the data: How many different people have been fined? How many fines do different people have? Where do the people come from? What are their demographics?
 
@@ -12,7 +12,7 @@ Diffix allows us to learn this kind of information while still protecting privac
 
 ## Tools
 
-The [Open Diffix](open-diffix.org) project offers two tools for analyzing data anonymized by Diffix. **Diffix for Desktop** is a simple GUI-based desktop tool that runs on Windows, Mac, or Linux. **Diffix for PostgreSQL** is a PostgreSQL extension `pg_diffix` that anonymizes SQL queries. Diffix for PostgreSQL has more query features than Diffix for Desktop.
+The [Open Diffix](https://open-diffix.org) project offers two tools for analyzing data anonymized by Diffix. **Diffix for Desktop** is a simple GUI-based desktop tool that runs on Windows, Mac, or Linux. **Diffix for PostgreSQL** is a PostgreSQL extension `pg_diffix` that anonymizes SQL queries. Diffix for PostgreSQL has more query features than Diffix for Desktop.
 
 
 ## Diffix for Desktop
