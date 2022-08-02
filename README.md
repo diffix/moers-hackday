@@ -23,9 +23,8 @@ Diffix for PostgreSQL can be used by anyone, including the public. It hides pers
 To analyze the data using Diffix for Desktop, do the following:
 
 1. Download [Diffix for Desktop](https://www.open-diffix.org/download).
-2. Download `moers.csv.zip` from this GitHub repo.
-3. Unzip `moers.csv.zip` to make `moers.csv`.
-4. After starting Diffix for Desktop, load `moers.csv` into the application.
+2. Download `moers_bussgelder.csv.zip` from this GitHub repo and unzip.
+4. After starting Diffix for Desktop, load `moers_bussgelder.csv` into the application.
 5. Configure the **AID** to be the column `PID`
 
 Now you are ready to analyze the data set.
