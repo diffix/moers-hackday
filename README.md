@@ -8,12 +8,15 @@ The data set for the Moers Hackday consists of several years of traffic violatio
 
 Moers removed all personal information from the data set. This makes the dataset private, but results in the loss of some potentially information about the data: How many different people have been fined? How many fines do different people have? Where do the people come from? What are their demographics?
 
-Diffix allows us to learn this kind of information while still protecting privacy. Do demonstrate this, we have *added* synthetic data about persons to the Moers data: age, gender, and license-plate number.
+Diffix allows us to learn this kind of information while still protecting privacy. Do demonstrate this, we have *added* synthetic data about persons to the Moers data: age, gender, and license-plate number. Diffix generates statistical information about the data set (including the people) without revealing individual information about the people.
 
 ## Tools
 
 The [Open Diffix](https://open-diffix.org) project offers two tools for analyzing data anonymized by Diffix. **Diffix for Desktop** is a simple GUI-based desktop tool that runs on Windows, Mac, or Linux. **Diffix for PostgreSQL** is a PostgreSQL extension `pg_diffix` that anonymizes SQL queries. Diffix for PostgreSQL has more query features than Diffix for Desktop.
 
+Diffix for Desktop is designed to be used by a *trusted* analyst. All of the personal information in the data set is visible to the analyst when using the tool.
+
+Diffix for PostgreSQL can be used by anyone, including the public. It hides personal information.
 
 ## Diffix for Desktop
 
