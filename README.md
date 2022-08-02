@@ -8,7 +8,7 @@ The data set for the Moers Hackday consists of several years of traffic violatio
 
 Moers removed all personal information from the data set. This makes the dataset private, but results in the loss of some potentially information about the data: How many different people have been fined? How many fines do different people have? Where do the people come from? What are their demographics?
 
-Diffix allows us to learn this kind of information while still protecting privacy. Do demonstrate this, we have *added* synthetic data about persons to the Moers data: age, gender, and license-plate number. Diffix generates statistical information about the data set (including the people) without revealing individual information about the people.
+Diffix allows us to learn this kind of information while still protecting privacy. To demonstrate this, we have *added* synthetic data about persons to the Moers data: age, gender, and license-plate number. Diffix generates statistical information about the data set (including the people) without revealing individual information about the people.
 
 ## Tools
 
