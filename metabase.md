@@ -9,6 +9,8 @@
 
 After login, you should see a page more-or-less like this:
 
+<img src="images/seq1.png" width="100">
+
 ![This is an image](images/seq1.png)
 
 ![This is an image](images/seq2.png)
