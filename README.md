@@ -29,6 +29,8 @@ The [Open Diffix](https://open-diffix.org) offers a second tool, **Diffix for Po
 
 **Diffix for PostgreSQL** offers substantially more query options than **Diffix for Desktop**. If you know SQL, or would like to learn SQL, then this is the better choice.
 
+**Diffix for PostgreSQL** allows only a limited subset of SQL, and has some other idiosyncrasies as well. To learn how to use SQL with Diffix, we recommend [this training app](https://training.open-diffix.org/). It takes about 5 minutes to complete for basic queries, and around 30 minutes for the whole course. (It also serves as a good reference for query templates.)
+
 We offer several options for Hackday:
 
 ### Data visualization using Metabase
@@ -38,3 +40,9 @@ We offer several options for Hackday:
 Metabase supports both SQL-based and GUI-based queries. The latter doesn't work well with `pg_diffix`, but the former does. [Click here](metabase.md) for details on how to login to our Metabase installation and query the Moers traffic data.
 
 ### DBeaver SQL client
+
+If you prefer to use a more standard SQL client, [DBeaver](https://dbeaver.io/) is a lightweight client that works for `pg_diffix`. After downloading, configure the Moers traffic database with the following parameters:
+
+<img src="images/dbeaver.png" width="500">
+
+And password `moers`.
