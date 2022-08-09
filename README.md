@@ -46,3 +46,11 @@ If you prefer to use a more standard SQL client, [DBeaver](https://dbeaver.io/) 
 <img src="images/dbeaver.png" width="500">
 
 And password `moers`.
+
+### psql
+
+`psql` also works with `pg_diffix`. You can run it with the same parameters shown for DBeaver above. (If you don't know what `psql` is, then this isn't a good option for you for Hackday.)
+
+### Jupyter Notebook
+
+Finally, if you prefer working from a Jupyter Notebook, you can use [this notebook](https://github.com/diffix/pg_diffix/blob/master/docs/banking.ipynb) as a template to work from (changing the login parameters as needed).
