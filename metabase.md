@@ -7,35 +7,31 @@
 
 ## Visual guide to finding the SQL editor
 
-First
+After login, you should see a page like this. We have prepared a small number of example queries. You can find the list by selecting the `Beispielabfragen` link under `Sammlungen` (see red arrow):
 
 <img src="images/seq10.png" width="500">
 
-Second
+(Note that you can change the interface language by clicking on the gearbox on the lower left, clicking "Admin settings", and then "Localization".)
+
+Select any of the listed example queries.
 
 <img src="images/seq11.png" width="500">
 
-Third
+Open the editor by clicking `ÖFFNE EDITOR`.
 
 <img src="images/seq12.png" width="500">
 
-Fourth
+It is handy to see the column names as you write queries. To do this, click on the icon shown here:
 
 <img src="images/seq13.png" width="500">
 
-Fifth
+Modify this query or one of the other examples.
 
 <img src="images/seq14.png" width="500">
 
-Last
-
-
-
-After login, you should see a page more-or-less like this:
+Alternatively, you can always start a new query from scratch by clicking `New` on the upper right corner:
 
 <img src="images/seq1.png" width="500">
-
-(Note that you can change the interface language by clicking on the gearbox on the lower left, clicking "Admin settings", and then "Localization".)
 
 Click on 'New' in the upper right corner (see red arrow) to get this pulldown menu:
 
