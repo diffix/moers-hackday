@@ -11,14 +11,22 @@ After login, you should see a page more-or-less like this:
 
 <img src="images/seq1.png" width="500">
 
-![This is an image](images/seq1.png)
+Click on 'New' in the upper right corner (see red arrow) to get this pulldown menu:
 
-![This is an image](images/seq2.png)
+<img src="images/seq2.png" width="500">
 
-![This is an image](images/seq3.png)
+And then select "SQL Query".
 
-![This is an image](images/seq4.png)
+<img src="images/seq3.png" width="500">
 
-![This is an image](images/seq5.png)
+Select the "Moers Hackday" dataset:
 
-![This is an image](images/seq6.png)
+<img src="images/seq4.png" width="500">
+
+This gives you the SQL editor. It is handy to see the column names as you write queries. To do this, click on the icon shown.
+
+<img src="images/seq5.png" width="500">
+
+Write your query and execute.
+
+<img src="images/seq6.png" width="500">
