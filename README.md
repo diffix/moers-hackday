@@ -36,3 +36,5 @@ We offer several options for Hackday:
 [Metabase](https://www.metabase.com/) is a "Business Intelligence" tool that connects to a backend database system and let's you easily visualize data and build dashboards.  Click [here](http://metabase.open-diffix.org/public/dashboard/639cfe51-f9d5-4683-b76b-a9328f46a418) for an example of a simple dashboard built from the Moers traffic data.
 
 Metabase supports both SQL-based and GUI-based queries. The latter doesn't work well with `pg_diffix`, but the former does. [Click here](metabase.md) for details on how to login to our Metabase installation and query the Moers traffic data.
+
+### DBeaver SQL client
