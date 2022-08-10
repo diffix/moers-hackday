@@ -29,9 +29,9 @@ The [Open Diffix](https://open-diffix.org) offers a second tool, **Diffix for Po
 
 **Diffix for PostgreSQL** offers substantially more query options than **Diffix for Desktop**. If you know SQL, or would like to learn SQL, then this is the better choice.
 
-**Diffix for PostgreSQL** allows only a limited subset of SQL, and has some other idiosyncrasies as well. To learn how to use SQL with Diffix, we recommend [this training app](https://training.open-diffix.org/). It takes about 5 minutes to complete for basic queries, and around 30 minutes for the whole course. (It also serves as a good reference for query templates.)
+**Diffix for PostgreSQL** allows only a limited subset of SQL, and has some other idiosyncrasies as well. Details can be found in our [Analyst Guide](https://github.com/diffix/pg_diffix/blob/master/docs/analyst_guide.md). Alternatively, we provide a [training app](https://training.open-diffix.org/) that takes you through step-by-step examples using live queries. It takes about 5 minutes to complete for basic queries, and around 30 minutes for the whole course. (It also serves as a good reference for query templates.)
 
-We offer several options for Hackday:
+We offer several options to analyze data with SQL for Hackday:
 
 ### Data visualization using Metabase
 
