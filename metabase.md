@@ -55,7 +55,7 @@ After clicking "SQL Query" you'll see this:
 
 <img src="images/seq3.png" width="500">
 
-Select the "Moers Hackday" dataset, and this will give you the SQL editor.  It is handy to see the column names as you write queries. To do this, click on the icon shown here:
+Select the dataset you want to work with ("Moers Hackday" or "Non-anonymized Moers Hackday"), and this will give you the SQL editor.  It is handy to see the column names as you write queries. To do this, click on the icon shown here:
 
 <img src="images/seq4.png" width="500">
 
